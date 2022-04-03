@@ -46,3 +46,17 @@ main {
 .product-info {
   padding: 1rem;
 }
+
+/*footer*/
+
+.App-footer {
+  text-align: center;
+  background-color: #a3bdf0;
+  padding: .5rem;
+}
+.App-footer a {
+  color: rgb(255, 0, 76);
+  font-weight: bold;
+  text-decoration: none;
+}
+

@@ -15,4 +15,10 @@ function App() {
           </Routes>
         </main>
         <footer className="App-footer">
-         
+          <p>All Rights Reserved By <a href="https://facebook.com/shohanurislam.nishad" target="blank">Group 10</a></p>
+        </footer>
+    </BrowserRouter>
+  );
+}
+
+export default App;
