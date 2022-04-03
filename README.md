@@ -29,3 +29,6 @@ You may also see any lint errors in the console.
 Runs the app in the development mode.\
 Website's backend will run in this port: [http://localhost:5000](http://localhost:5000)
 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
