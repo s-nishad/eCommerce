@@ -11,6 +11,8 @@ In the project directory, you can run:
 
 #### go in command prompt for frontend part `cd frontend`
 
+### `yarn install`
+
 ### `yarn start`
 
 Runs the app in the development mode.\
@@ -23,6 +25,8 @@ You may also see any lint errors in the console.
 ## Available Scripts For Backend Part
 
 #### go in command prompt for backend part `cd backend`
+
+### `yarn install`
 
 ### `yarn start`
 
