@@ -26,7 +26,7 @@ function App() {
           </Routes>
         </main>
         <footer className="App-footer">
-          <p>All Rights Reserved By <a href="https://facebook.com/shohanurislam.nishad" target="blank">Group 10</a></p>
+          <p>All Rights Reserved By <a href="https://facebook.com/shohanurislam.nishad" target="blank">Shohanur Nishad</a></p>
         </footer>
     </BrowserRouter>
   );
