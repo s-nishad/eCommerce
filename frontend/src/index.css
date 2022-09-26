@@ -16,6 +16,10 @@ main {
   padding: 1rem;
 }
 
+.btn-primary {
+  background-color: #f0c040;
+}
+
 .products {
   display: flex;
   flex-wrap: wrap;
@@ -47,5 +51,9 @@ main {
   color: rgb(255, 0, 76);
   font-weight: bold;
   text-decoration: none;
+}
+
+.img-large {
+  max-width: 100%;
 }
 
